@@ -1,0 +1,50 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    width: 200px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+  }
+  
+  .button {
+    padding: 10px 1px;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #218838;
+  }
+  
+  .error {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .cityList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cityItem {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+    text-align: left;
+  }
+  
